@@ -12,7 +12,7 @@ public class Ozylympics {
 		return listAthletes;
 	}
 	
-	//load my officials
+	//load my official
 	
 	//create list of athletes
 	
