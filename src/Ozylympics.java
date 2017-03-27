@@ -17,5 +17,4 @@ public class Ozylympics {
 	//create list of athletes
 	
 	//create list of games
-
 }
